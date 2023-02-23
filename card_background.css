@@ -1,0 +1,22 @@
+.container{
+    min-height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(pexels-photo-1229861.webp);
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.card{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0,0.5);
+    font-size: 10px;
+    color:rgb(249, 184, 184);    
+    height:20vh;
+    width: 50%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
